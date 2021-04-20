@@ -3,7 +3,7 @@
 I am Fernando Pieressa, currently working at [MACH](https://www.somosmach.com/) and a recent graduate of [Pontificia Universidad Católica de Chile](https://www.uc.cl/). I am a tech enthusiast & always trying to learn something new!
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-fernandopieressa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-pieressa-304ba4115/)](https://www.linkedin.com/in/anirudhemmadi/) [![Gmail Badge](https://img.shields.io/badge/-fapieressa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:fapieressa@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-fernandopieressa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-pieressa-304ba4115/)](https://www.linkedin.com/in/fernando-pieressa-304ba4115/) [![Gmail Badge](https://img.shields.io/badge/-fapieressa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fapieressa@uc.cl)](mailto:fapieressa@uc.cl)
 
 ## ⚡ Technologies
 
