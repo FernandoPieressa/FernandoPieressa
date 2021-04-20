@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/FernandoPieressa/FernandoPieressa/master/wave.gif" width="30px">
 
 I am Fernando Pieressa, currently working at [MACH](https://www.somosmach.com/) and a recent graduate of [Pontificia Universidad Católica de Chile](https://www.uc.cl/). I am a tech enthusiast & always trying to learn something new!
 Find out more about me & feel free to connect with me here:
